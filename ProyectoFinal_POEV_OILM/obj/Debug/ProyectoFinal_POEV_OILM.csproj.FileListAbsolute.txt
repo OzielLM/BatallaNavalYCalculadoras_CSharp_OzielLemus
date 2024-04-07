@@ -1,0 +1,28 @@
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\bin\Debug\ProyectoFinal_POEV_OILM.exe.config
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\bin\Debug\ProyectoFinal_POEV_OILM.exe
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\bin\Debug\ProyectoFinal_POEV_OILM.pdb
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.csproj.AssemblyReference.cache
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.frmPrincipal.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.Properties.Resources.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.csproj.GenerateResource.cache
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.csproj.CoreCompileInputs.cache
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.exe
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.pdb
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.frmMatrices.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.frmMedicionM.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.frmMedicionL.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\POEV\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.frmBatallaNaval.resources
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\bin\Debug\ProyectoFinal_POEV_OILM.exe.config
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\bin\Debug\ProyectoFinal_POEV_OILM.exe
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\bin\Debug\ProyectoFinal_POEV_OILM.pdb
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.csproj.AssemblyReference.cache
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.frmBatallaNaval.resources
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.frmMatrices.resources
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.frmMedicionM.resources
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.frmMedicionL.resources
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.frmPrincipal.resources
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.Properties.Resources.resources
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.csproj.GenerateResource.cache
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.csproj.CoreCompileInputs.cache
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.exe
+E:\Proyectos para subir\ProyectoFinal_POEV_OILM\obj\Debug\ProyectoFinal_POEV_OILM.pdb
